@@ -1,7 +1,0 @@
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
-brew "gawk"
-brew "graphviz"
-brew "pkg-config"
-cask "emacs"
